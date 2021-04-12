@@ -1,0 +1,78 @@
+{
+  "header": {
+    "about": "About Me",
+    "work": "Work Experience",
+    "hobby": "Hobbies",
+    "contact": "Contact"
+  },
+  "home": {
+    "subTitle": "DEVELOPER | FRONT END | BACK END",
+    "title": "Andres Bustamante"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "Mechatronic engineer, Software lover based in Bolivia, specialized in web applications with React.js and Express.js. In my spare time I do sports, play video games and travel"
+  },
+  "workExp": {
+    "title": "Work Experience",
+    "downloadCV": "Download CV in English",
+    "repo": "Repository",
+    "company": {
+      "n1": {
+        "type": "w",
+        "name": "Consultora Blockchain",
+        "img": "",
+        "post": "Mobile Developer",
+        "dateI": "October 2020",
+        "dateF": "December 2020",
+        "description": "I designed and developed mobile applications using React Native and Figma, consuming API Rest and aided by tools such as VSC, Postman and Gitlab. We worked in teams mentored by a technical leader. I came to design an application to do Trading, and to maintain and continuous development of an application for the dental school in my city"
+      },
+      "n2": {
+        "type": "w",
+        "name": "Mentor CEI",
+        "img": "",
+        "post": "Systems Assistant",
+        "dateI": "October 2019",
+        "dateF": "March 2020",
+        "description": "This was an education company, I was in charge of being the assistant to the technical manager in the company. This consisted of the maintenance of equipment and the code of the internal desktop application of the company that was done in Java"
+      }
+    },
+    "portfolio": {
+      "n3": {
+        "type": "p",
+        "title": "Portfolio",
+        "name": "Image Search Engine",
+        "linkPage": "https://image-search-3d130.web.app/",
+        "img": "",
+        "description": "Image search engine for viewing and downloading made with Bootswatch and React.js. Consume the Pixabay API.",
+        "linkRepo": "https://github.com/busta-design/react-image-search-engine"
+      },
+      "n4": {
+        "type": "p",
+        "title": "Portfolio",
+        "name": "Hospital Appointment",
+        "linkPage": "",
+        "img": "",
+        "description": "This application can book appointments with doctors and nurses according to schedules that we ourselves can grant them. It does not present data persistence. This was made with Java SE.",
+        "linkRepo": "https://github.com/busta-design/doctor-appointments"
+      }
+    }
+  },
+  "hobbies": {
+    "title": "Hobbies"
+  },
+  "contact": {
+    "title": "Contact",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send"
+    }
+  },
+  "thanks": {
+    "thankyou": "Thank You",
+    "goodbay": "I will contact you as son as possible",
+    "goback": "Go Back"
+  }
+}

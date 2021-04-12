@@ -1,0 +1,78 @@
+{
+  "header": {
+    "about": "Sobre mí",
+    "work": "Exp. trabajo",
+    "hobby": "Pasatiempo",
+    "contact": "Contacto"
+  },
+  "home": {
+    "subTitle": "DESARROLLADOR | FRONT END | BACK END",
+    "title": "Andres Bustamante"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "description": "Ingeniero Mecatrónico, amante del Software radicado en Bolivia, especializado en aplicaciones web con React.js y Express.js. En mi tiempo libre hago deportes, juego videojuegos y viajo"
+  },
+  "workExp": {
+    "title": "Experiencia de Trabajo",
+    "downloadCV": "Descargar CV en Español",
+    "repo": "Repositorio",
+    "company": {
+      "n1": {
+        "type": "w",
+        "name": "Consultora Blockchain",
+        "img": "",
+        "post": "Desarrollador Móvil",
+        "dateI": "Octubre 2020",
+        "dateF": "Diciembre",
+        "description": "Diseñé y desarrollé aplicaciones móviles utilizando React Native y Figma, consumiendo API Rest y ayudados de herramientas como VSC, Postman y Gitlab. Trabajabamos en equipos mentoreados por un líder técnico. Llegué a diseñar una aplicación para hacer Trading, y a dar mantenimiento y continuo desarrollo a una aplicación para el colegio de odontólogos de mi ciudad"
+      },
+      "n2": {
+        "type": "w",
+        "name": "Mentor CEI",
+        "img": "",
+        "post": "Auxiliar en Sistemas",
+        "dateI": "Octubre 2019",
+        "dateF": "Marzo 2020",
+        "description": "Esta era una empresa de educación, yo estaba encargado de ser el ayudante del responsable técnico en la empresa. Esto consistía en el mantenimiento de equipos y del código de la aplicación de escritorio interno de la empresa que estaba hecho en Java"
+      }
+    },
+    "portfolio": {
+      "n3": {
+        "type": "p",
+        "title": "Portafolio",
+        "name": "Buscador de imágenes",
+        "linkPage": "https://image-search-3d130.web.app/",
+        "img": "",
+        "description": "Buscador de imágenes para visualización y descarga hecho con Bootswatch y React.js. Consume la API de Pixabay.",
+        "linkRepo": "https://github.com/busta-design/react-image-search-engine"
+      },
+      "n4": {
+        "type": "p",
+        "title": "Portafolio",
+        "name": "Citas a Hospital",
+        "linkPage": "",
+        "img": "",
+        "description": "Esta aplicación permite reservar citas con médicos y enfermeras según horarios que nosotros mismos podamos concederles. No presenta persistencia de datos. Esto se hizo con Java SE.",
+        "linkRepo": "https://github.com/busta-design/doctor-appointments"
+      }
+    }
+  },
+  "hobbies": {
+    "title": "Pasatiempos"
+  },
+  "contact": {
+    "title": "Contacto",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo",
+      "message": "Mensaje",
+      "send": "Enviar"
+    }
+  },
+  "thanks": {
+    "thankyou": "Gracias",
+    "goodbay": "Me contactaré contigo lo más pronto posible",
+    "goback": "Volver"
+  }
+}

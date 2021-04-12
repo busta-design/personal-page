@@ -1,3 +1,11 @@
+# URL
+
+https://portfolio-87bfa.web.app
+
+# Description
+
+This is my personal page, made with React. I used material-ui, styled-components, firebase, reCAPTCHA, react-router-dom, i18next (language translation) and hooks.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
