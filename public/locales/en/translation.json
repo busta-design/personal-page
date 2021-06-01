@@ -11,7 +11,7 @@
   },
   "about": {
     "title": "About Me",
-    "description": "Mechatronic engineer, Software lover based in Bolivia, specialized in web applications with React.js and Express.js. In my spare time I do sports, play video games and travel"
+    "description": "Mechatronic engineer, Software lover based in Bolivia, specialized in web applications with React.js and .Net Core with JavaScript, Typescript y C#. In my spare time I do sports, play video games and travel"
   },
   "workExp": {
     "title": "Work Experience",
@@ -41,20 +41,29 @@
       "n3": {
         "type": "p",
         "title": "Portfolio",
+        "name": "Portfolio",
+        "linkPage": "",
+        "img": "",
+        "description": "This site itself is my portfolio, where you can find a lot of information about me. This project was made with React.js, Material-ui, Style-components, Firebase, React-router-dom, reCaptcha, and Hooks.",
+        "linkRepo": "https://github.com/busta-design/personal-page"
+      },
+      "n4": {
+        "type": "p",
+        "title": "Portfolio",
         "name": "Image Search Engine",
         "linkPage": "https://image-search-3d130.web.app/",
         "img": "",
         "description": "Image search engine for viewing and downloading made with Bootswatch and React.js. Consume the Pixabay API.",
         "linkRepo": "https://github.com/busta-design/react-image-search-engine"
       },
-      "n4": {
+      "n5": {
         "type": "p",
         "title": "Portfolio",
-        "name": "Hospital Appointment",
+        "name": "Poverty Prediction Graphical Interface with AI",
         "linkPage": "",
         "img": "",
-        "description": "This application can book appointments with doctors and nurses according to schedules that we ourselves can grant them. It does not present data persistence. This was made with Java SE.",
-        "linkRepo": "https://github.com/busta-design/doctor-appointments"
+        "description": "Este es un trabajo freelance privado que se encuentra en desarrollo. Es el front end de una aplicacion de machine learning que predice mapas de pobreza. Esta interfaz está hecha con React.js, Material-ui, Style-components, React-router-dom y Reactstrap.",
+        "linkRepo": ""
       }
     }
   },

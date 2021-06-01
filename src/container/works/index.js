@@ -27,6 +27,8 @@ const Works = () => {
     t('workExp.company.n2.dateI'),
     t('workExp.portfolio.n3.name'),
     t('workExp.portfolio.n4.name'),
+    t('workExp.portfolio.n5.name'),
+    // t('workExp.portfolio.n6.name'),
   ];
 
   const getType = index => {
