@@ -62,7 +62,7 @@
         "name": "Interfaz Gráfica de predicción de pobreza con IA",
         "linkPage": "",
         "img": "",
-        "description": "This is a private freelance job in progress. It is the front end of a machine learning application that predicts poverty maps. This interface is made with React.js, Material-ui, Style-components, React-router-dom and Reactstrap.",
+        "description": "Este es un trabajo freelance privado que se encuentra en desarrollo. Es el front end de una aplicacion de machine learning que predice mapas de pobreza. Esta interfaz está hecha con React.js, Material-ui, Style-components, React-router-dom y Reactstrap.",
         "linkRepo": ""
       }
     }
